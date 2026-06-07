@@ -8,8 +8,8 @@
 
 ### Community Standards
 
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
-- [Security Policy](SECURITY.md)
-- [Support](SUPPORT.md)
-- [Governance](GOVERNANCE.md)
+- [Code of Conduct](.github/CODE_OF_CONDUCT.md)
+- [Contributing Guidelines](.github/CONTRIBUTING.md)
+- [Security Policy](.github/SECURITY.md)
+- [Support](.github/SUPPORT.md)
+- [Governance](.github/GOVERNANCE.md)
